@@ -1,4 +1,4 @@
-# Investigate a Dataset(Gapminder - Case Study)
+# Exploring the Impact of Child Mortality, Life Expectancy, and Fertility Rates on Future Global Growth.
 ## by (Giwa Temitopeoluwa Hafsat)
 
 
