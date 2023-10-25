@@ -4,19 +4,16 @@
 
 ## Dataset
 
-> The datasets that were used for this project were gotten from the [gapminder website](https://www.gapminder.org/data/) where the child mortality,Life Expectancy and Total Fertility are indicator datasets i.e they can tell why there is an increase or decrease in population in this case. These indicator datasets were collected for the range of years of (1800 to 2100).
-
+> This project used indicator datasets from the [Gapminder website](https://www.gapminder.org/data/)  to explore trends in child mortality, life expectancy, and total fertility rates (TFRs) from 1800 to 2100. These indicators can provide insights into the factors that drive population growth or decline.
 
 
 ## Summary of Findings
 
-> After my Exploratory data analysis, I was able deduce that deaths of children under age 5 and expected number of years to be lived have a negative relationship i.e as the deaths of children under age 5 was increasing,the expected number of years to be lived was  decreasing.
-I also noticed how there was a rapid decrease in deaths of children under age 5 over the years and a rapid increase in expected number of years to be lived over time. 
-There is also a fast decrease in the rate at which women are giving birth to children  over time which might be due to alot of reasons e.g quality education etc.
+>My exploratory data analysis revealed a negative correlation between child mortality and life expectancy, meaning that as child mortality rates decrease, life expectancy rates increase. I also observed a rapid decline in child mortality rates and a rapid increase in life expectancy rates over time. Additionally, I found that total fertility rates (TFRs) have been decreasing over time, which could be due to a number of factors, such as improved access to education and contraception.
 
 
 ## Key Insights for Presentation
 
-1. The country with the lowest fertility rate in 2022 is Moldova with an estimated fertility rate of 1.24 children.
-2. The year/years that have the least and most deaths of under-5 year olds recorded are 2099 and 2100 with mortality rates of approximately 0.25 deaths and 0.25 deaths respectively.
-3. The number of years a citizen of Nigeria is expected to live in 2023 is estimated to be 65.8years
+1. Moldova has the lowest fertility rate in 2022, with an estimated rate of 1.24 children per woman.
+2. Child mortality rates are lowest in 2099-2100, with approximately 0.25 deaths per 1000 live births.
+3. Nigerians are expected to live an average of 65.8 years in 2023.
