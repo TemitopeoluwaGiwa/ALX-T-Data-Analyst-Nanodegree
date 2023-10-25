@@ -20,5 +20,5 @@
 
 ## Recommendations
 * To predict dog breeds more accurately, use more dog pictures or a different neural network design.
-* Check if the correlation between likes and retweets is general or specific to @dog_rates.
+* Check if the correlation between likes and retweets is general or specific to [WeRateDogs](https://twitter.com/dog_rates?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
 * Use the WeRateDogs dataset to learn more about dog ownership and behavior, such as trends in dog names and reasons dogs are featured.
