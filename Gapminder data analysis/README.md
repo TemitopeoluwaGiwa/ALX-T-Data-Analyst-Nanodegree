@@ -17,3 +17,9 @@
 1. Moldova has the lowest fertility rate in 2022, with an estimated rate of 1.24 children per woman.
 2. Child mortality rates are lowest in 2099-2100, with approximately 0.25 deaths per 1000 live births.
 3. Nigerians are expected to live an average of 65.8 years in 2023.
+
+## Recommendations
+
+1. Invest in education and contraception in Moldova.
+2. Develop strategies to improve access to quality healthcare in Nigeria
+3. Collect more data on the factors that contribute to child mortality, life expectancy, and total fertility rates
